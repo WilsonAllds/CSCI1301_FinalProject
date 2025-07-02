@@ -1,5 +1,5 @@
 # CSCI1301-Project
-final project
+final project for Fall Semester of 2023
 
 first project in csci 1301.
 
