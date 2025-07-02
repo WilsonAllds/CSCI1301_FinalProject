@@ -1,0 +1,20 @@
+Criteria to be met:
+    function to display all info
+        we can do this easily by displaying the entire aray with a for loop
+    
+    function to search and display all info 
+        this is a more complex one. the idea that I have is that we assign each student to 
+        a row in the array. if student C wanted to search by their
+        ID, which would be column 0, we could search for array[2][0]. we would just have to 
+        write a function that makes student 1 = a, 2 = b... noting that student 1 would be
+        on row 0 due to how arrays start counting at 0. 
+
+    display all course information
+        for loop
+
+    export all student info to a file
+        for loop and java.io* export methods. i dont think anyone here has done it before tho
+
+    read and process student schedule 
+
+    to be finished
