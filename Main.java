@@ -41,7 +41,7 @@ public class Main
             System.out.println("How many students do you want to enter?");
             int numberOfStudents = keyboard.nextInt();
             
-            //trailing newline so i dont fuck up my for loop 
+            //trailing newline so i dont mess up my for loop 
             keyboard.nextLine();
             
             //this fetches the information from the person who enters it
@@ -110,4 +110,5 @@ public class Main
 }
 
 */
+
 
